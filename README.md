@@ -21,9 +21,22 @@ The meaning of the variables of this data-set are explained below.
 3) Structure check and conversion of variables (if required). 
 4) Data visualizations (usage of loops to be considered to be more efficient): Univariate analysis, Bivariate analysis and other relevant visualizations. 
 5) Data pre-processing
--   Checking the presence of missing values and imputation of missing values with appropriate measures of CT.
--   Testing the significance of variable relationships of predictor variables with target variables using chi-square test.
+    - Checking the presence of missing values and imputation of missing values with appropriate measures of CT.
+    - Testing the significance of variable relationships of predictor variables with target variables using chi-square test.
 7) Splitting of data into train and test sample. 
-8) Model building and execution. Analyse the output and mention the significant variables (post iterative elimination of variables) in #Comments below
+8) Model building and execution. Analyse the output and mention the significant variables (post iterative elimination of variables) 
 9) Predict and validate the final model in the test sample of your data. 
-10) Summarize the model validation test outcomes from the model performance metrics of confusion matrix, F1 score (sensitivity/specificity), ‘overall value’ of the accuracy of the model
+10) Summarized the model validation test outcomes from the model performance metrics of confusion matrix, F1 score (sensitivity/specificity), ‘overall value’ of the accuracy of the model
+
+
+### Models with their Accuracy of Prediction
+- Accuracy of the model is 93%
+
+### NOTE
+==>RStudio Desktop version 1.4.1717 was used for the project.
+
+### Steps to run this application in your system
+Clone or download the repo.
+
+### Dataset has uploded in this folder 
+
